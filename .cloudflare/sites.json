@@ -1,6 +1,6 @@
 [
   {
-    "project": "herbies-takeout",
+    "project": "herbies-takeout-website",
     "source": ".",
     "worker": false,
     "files": [
